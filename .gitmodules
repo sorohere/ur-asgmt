@@ -1,0 +1,3 @@
+[submodule "yash/capage"]
+	path = yash/capage
+	url = https://github.com/sorohere/capage.git
